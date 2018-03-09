@@ -31,6 +31,11 @@
   * Follow [Dockerflow specification](https://github.com/mozilla-services/Dockerflow)
   * Use third party development tools for code coverage, documentation, etc.
 
+* **DOs and DONTs**
+
+  * **DO** push your `git` topic branches to **your fork** (not `mozilla`) and make
+    your pull request from there to the main repo. 
+    
 ## Projects
 
 * **SHOULD**
