@@ -10,7 +10,7 @@
 
 * **MUST**
 
-  * Have a "product-delivery" topic
+  * Have a "product-delivery" [topic](https://help.github.com/articles/about-topics/)
   * Have a README document. It should follow our standard [readme template (tbd)]
   * Have a LICENSE text file
 
