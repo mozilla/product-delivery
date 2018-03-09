@@ -5,3 +5,6 @@ See [STANDARDS.md](STANDARDS.md) for the standards listing.
 
 Origin of this was
 [this Google Docs document](https://docs.google.com/document/d/1ZhsrX1Sz7bhOJ25nngGRuYlXfjfpv6kuvCS3T4KDtWI/edit#).
+
+The primary home for this team is
+[#storage-team](irc://irc.mozilla.org/#storage-team).
