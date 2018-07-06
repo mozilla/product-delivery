@@ -17,7 +17,7 @@
 * **SHOULD**
 
   * Be licensed under the Mozilla Public License version 2.0
-  * Use Markdown (md) or reStructuredText (rst) for README format
+  * Use Markdown for README format
   * Use a GitHub Project to track statuses of issues
   * Use CircleCI for continuous integration
 
