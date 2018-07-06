@@ -20,15 +20,13 @@
   * Use Markdown for README format
   * Use a GitHub Project to track statuses of issues
   * Use CircleCI for continuous integration
-
+  * Follow [Dockerflow specification](https://github.com/mozilla-services/Dockerflow)
+  
 * **MAY**
 
   * Have a contributors.txt describing contribution guidelines
-
     * Use "mentored" tags to [expose contributor friendly bugs to
       Bugsahoy](https://wiki.mozilla.org/BugsAhoy)
-
-  * Follow [Dockerflow specification](https://github.com/mozilla-services/Dockerflow)
   * Use third party development tools for code coverage, documentation, etc.
 
 ## Projects
