@@ -21,6 +21,7 @@
   * Use a GitHub Project to track statuses of issues
   * Use CircleCI for continuous integration
   * Follow [Dockerflow specification](https://github.com/mozilla-services/Dockerflow)
+  * Use [bors](https://bors.tech) for merging.
   
 * **MAY**
 
