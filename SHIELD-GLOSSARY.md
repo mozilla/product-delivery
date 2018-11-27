@@ -21,11 +21,11 @@ to list them with the goal of...:
 
 ## Glossary
 
-* **Addon Studies**
+* **Addon Experiments**
 
     * An extension is uploaded that is self-contained. The Normandy recipe
       contains the URL to the extension.
-    * *Alias:* Opt Out Studies
+    * *Alias:* Addon Studies, Opt Out Studies
 
 * **Delivery Console**
 
