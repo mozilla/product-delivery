@@ -70,16 +70,6 @@
 We have a core set of labels. These labels are not exhaustive but make up
 a convention for available labels across all Product Delivery projects.
 
-* Priority level: `P1`, `P2`, `P3`, `P5`
-
-  * Follow the [Bug Masters guidance](https://wiki.mozilla.org/Bugmasters/Process/Triage)
-    for triaging issue
-  * `P1` - Fix in the current release or iteration
-  * `P2` - Fix in the next release or iteration
-  * `P3` - Backlog
-  * `P5` - Will not fix, but will accept a patch
-  * Color code: ![#ffa32c](https://placehold.it/15/ffa32c/000000?text=+) `#ffa32c`
-
 * Problem Identifications: `bug`, `security`
 
   * Identifies the type of fix required.
