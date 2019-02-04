@@ -103,8 +103,7 @@ DRI for the issue.
 
 * Make pragmatic decisions (priorities, ship dates, etc)
 * Ensure all issues are triaged
-* Prioritized the issue appropriately (`P1`, `P2`, `P3`, `P5`), milestones,
-  etc.
+* Prioritize issues appropriately with labels, projects, milestones, etc.
 * Assign issues to DRI on Issues (delegate)
 * Remove project level blockers (resourcing, miscommunication, etc)
 
